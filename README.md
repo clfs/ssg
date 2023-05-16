@@ -35,11 +35,11 @@ Email me at [my@name.is.jim].
 ```markdown
 Date: 2023-05-15
 
-# Gangkhar Puensum 
+# Gangkhar Puensum
 
-Gangkhar Peunsum (གངས་དཀར་སྤུན་གསུམ་) is the highest [unclimbed mountain] in the world.
+Gangkhar Peunsum is the [highest] unclimbed mountain in the world.
 
-[unclimbed mountain]: https://en.wikipedia.org/wiki/Highest_unclimbed_mountain
+[highest]: https://en.wikipedia.org/wiki/Highest_unclimbed_mountain
 ```
 
 ### Usage
